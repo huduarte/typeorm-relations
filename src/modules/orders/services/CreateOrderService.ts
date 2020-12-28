@@ -9,7 +9,7 @@ import IOrdersRepository from '../repositories/IOrdersRepository';
 
 interface IProduct {
   id: string;
-  quantity: number;
+  quantity: number
 }
 
 interface IRequest {
